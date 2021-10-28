@@ -1,0 +1,2 @@
+# odinJSPractice
+Practicing js
